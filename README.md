@@ -4,7 +4,7 @@ These are some exercises I did as I read the book.
 
 # Book details
 * Python Crash Course, Third Edition
-* Author: Eric Mathew
+* Author: Eric Matthes
 * Publisher: No Starch Press
 
 
